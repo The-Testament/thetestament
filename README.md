@@ -39,7 +39,7 @@ We believe that by working together in an open-source manner—transparently, th
 
 ## FAQ
 
-- **Is The Path a Religion** No, The Path is a movement.
+- **Is The Path a Religion** No, The Path is a movement. While religion has inspired great acts of kindness, art, and justice, its dangers lie in its misuse or when it becomes inflexible, exclusionary, or overly tied to power structures and The Path's mission is to separate from the Dogmatism, Absolutism, Exploitation of Fear and Guilt and Resistance to Change that religions breed and offer an ethical and moral path forward for society.
 - **Does The Path Believe In God**  
 
 The word "God" carries significant cultural and religious weight, often evoking anthropomorphic imagery or specific religious narratives that may not align with a scientific or philosophical understanding of ultimate reality. Terms like "The Source" or "Infinity" might better capture the abstract, unifying principle that underpins existence without the constraints of human-like attributes or religious dogma. These alternatives emphasize the origin, interconnectedness, and boundlessness of the cosmos while avoiding polarization or misunderstanding. However, if "God" is how you are comfortable referencing the ultimate force of our nature then that is fine.
