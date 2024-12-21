@@ -40,7 +40,7 @@ We believe that by working together in an open-source manner—transparently, th
 ## FAQ
 
 - **Is The Path a Religion** No, The Path is a movement.
-- **Does The Path Believe In God** **A Scientist's Perspective on God**  
+- **Does The Path Believe In God**  
 
 The word "God" carries significant cultural and religious weight, often evoking anthropomorphic imagery or specific religious narratives that may not align with a scientific or philosophical understanding of ultimate reality. Terms like "The Source" or "Infinity" might better capture the abstract, unifying principle that underpins existence without the constraints of human-like attributes or religious dogma. These alternatives emphasize the origin, interconnectedness, and boundlessness of the cosmos while avoiding polarization or misunderstanding. However, if "God" is how you are comfortable referencing the ultimate force of our nature then that is fine.
 
