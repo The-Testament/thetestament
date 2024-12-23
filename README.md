@@ -50,6 +50,9 @@ In essence, God is not "something out there" but the profound reality that makes
 <details>
 <summary>📚 The Testament Chapters</summary>
 
+### Preface
+[Read Preface →](Preface%201)
+
 ### Chapter 1: A New Path
 An introduction to a modern, reason-based approach to spiritual and moral life
 [Read Chapter →](Chapter%201)
