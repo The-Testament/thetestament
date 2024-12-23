@@ -32,9 +32,12 @@ We believe that by working together in an open-source manner—transparently, th
 
 <details>
 <summary>FAQ</summary>
-Is The Path a Religion No, The Path is a movement. While religion has inspired great acts of kindness, art, and justice, its dangers lie in its misuse or when it becomes inflexible, exclusionary, or overly tied to power structures and The Path's mission is to separate from the Dogmatism, Absolutism, Exploitation of Fear and Guilt and Resistance to Change that religions breed and offer an ethical and moral path forward for society.
-Does The Path Believe In God
-The word "God" carries significant cultural and religious weight, often evoking anthropomorphic imagery or specific religious narratives that may not align with a scientific or philosophical understanding of ultimate reality. Terms like "The Source" or "Infinity" might better capture the abstract, unifying principle that underpins existence without the constraints of human-like attributes or religious dogma. These alternatives emphasize the origin, interconnectedness, and boundlessness of the cosmos while avoiding polarization or misunderstanding. However, if "God" is how you are comfortable referencing the ultimate force of our nature then that is fine.
+
+## Is The Path a Religion
+- No, The Path is a movement. While religion has inspired great acts of kindness, art, and justice, its dangers lie in its misuse or when it becomes inflexible, exclusionary, or overly tied to power structures and The Path's mission is to separate from the Dogmatism, Absolutism, Exploitation of Fear and Guilt and Resistance to Change that religions breed and offer an ethical and moral path forward for society.
+
+## Does The Path Believe In God
+- The word "God" carries significant cultural and religious weight, often evoking anthropomorphic imagery or specific religious narratives that may not align with a scientific or philosophical understanding of ultimate reality. Terms like "The Source" or "Infinity" might better capture the abstract, unifying principle that underpins existence without the constraints of human-like attributes or religious dogma. These alternatives emphasize the origin, interconnectedness, and boundlessness of the cosmos while avoiding polarization or misunderstanding. However, if "God" is how you are comfortable referencing the ultimate force of our nature then that is fine.
 
 In this context, "God" can be understood as the foundational force or principle underpinning the existence of the universe—a unifying power that transcends human definitions and anthropomorphic attributes. This "God" is not a supernatural being in the traditional sense, nor confined by human-like qualities, but instead represents the ultimate reality from which all things emerge and to which all things return.
 
@@ -45,6 +48,9 @@ Rather than existing within the universe as a discrete entity, God is the univer
 God might be seen as the origin of complexity and simplicity, the reason why the universe is comprehensible and why it exists at all. This understanding resonates with scientific principles while acknowledging the limits of human comprehension. Just as science evolves to understand the mysteries of existence, our conception of God evolves to reflect an ever-deepening awareness of the cosmos.
 
 In essence, God is not "something out there" but the profound reality that makes everything possible—a creative, sustaining, and transformative principle that underlies not only the physical universe but also the emergent properties of consciousness, beauty, and meaning. God is both the seed of existence and the fertile soil from which all possibilities arise, guiding scientists, philosophers, and seekers alike toward a greater understanding of the infinite mystery we inhabit.
+
+## Is Jesus the son of god? 
+
 </details>
 
 <details>
