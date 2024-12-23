@@ -1,5 +1,5 @@
 # The Testament: A New Foundation for Community and Moral Teaching
-Welcome to the collaborative home of The Testament, a foundational text for a new tradition we call The Path. Here, we’re building an open-source repository of moral teachings, insights, and guidance inspired by the historical figure of Jesus, refocused through a rational, modern lens. We invite you to join us in shaping this evolving document and the principles behind it.
+Welcome to the collaborative home of The Testament, a foundational text for a new movement we call The Path. Here, we’re building an open-source repository of moral teachings, insights, and guidance inspired by the historical figure of Jesus, refocused through a rational, modern lens. We invite you to join us in shaping this evolving document and the principles behind it.
 
 ## What Are We Doing?
 For over ten thousand years, human societies have developed religions—systems of belief, moral frameworks, and communal practices—to address fundamental questions about right and wrong, social order, and meaning in life. Historically, religion played a vital role in teaching morality and building strong communities. It provided answers where formal education left gaps and offered a sense of belonging where isolation threatened social cohesion.
