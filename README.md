@@ -55,7 +55,7 @@ In essence, God is not "something out there" but the profound reality that makes
 
 ### Chapter 1: A New Path
 An introduction to a modern, reason-based approach to spiritual and moral life
-[Read Chapter →](Chapter%201)
+[Read Chapter →](Chapter%20)
 
 ### Chapter 2: The Original Teacher
 Examining Jesus as a human moral philosopher and teacher
