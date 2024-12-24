@@ -64,6 +64,8 @@ Welcome to the collaborative home of The Testament, a foundational text for a ne
 
 While we may have some basic innate tendencies toward empathy and fairness, the broader framework of ethics and morality is shaped by our culture, experiences, and social learning. We do not simply learn these concepts once; they require continual reflection, reinforcement, and sometimes revision throughout our lives. Adhering to **The Path** is a way to live a life aligned with your community’s values—without the dogma of religion.
 
+Please don’t conflate The Path’s reference to Jesus’s teachings with a religious doctrine. **The Path** is not a religion. We view Jesus as an extraordinary teacher whose original message has been distorted over centuries, turning into rituals, fear, guilt, and beliefs that often repel people. In contrast, we honor his core legacy—love and empathy for oneself and others—which is the essence **The Path** seeks to uphold.
+
 ## What Are We Doing?
 For over ten thousand years, human societies have developed religions—systems of belief, moral frameworks, and communal practices—to address fundamental questions about right and wrong, social order, and meaning in life. Historically, religion played a vital role in teaching morality and building strong communities. It provided answers where formal education left gaps and offered a sense of belonging where isolation threatened social cohesion.
 
