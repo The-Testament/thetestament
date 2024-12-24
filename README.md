@@ -61,6 +61,8 @@ I see no reason to align with a religion’s rules when broader ethical principl
 I strive for empathy and altruism that transcend religious boundaries.
 </details>
 
+While we may have some basic innate tendencies toward empathy and fairness, the broader framework of ethics and morality is shaped by our culture, experiences, and social learning. We do not simply learn these concepts once; they require continual reflection, reinforcement, and sometimes revision throughout our lives. Adhering to The Path is a way to live a life aligned with your community’s values—without the dogma of religion.
+
 ## What Are We Doing?
 For over ten thousand years, human societies have developed religions—systems of belief, moral frameworks, and communal practices—to address fundamental questions about right and wrong, social order, and meaning in life. Historically, religion played a vital role in teaching morality and building strong communities. It provided answers where formal education left gaps and offered a sense of belonging where isolation threatened social cohesion.
 
