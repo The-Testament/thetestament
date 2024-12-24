@@ -2,7 +2,9 @@
 Welcome to the collaborative home of The Testament, a foundational text for a new movement we call **The Path**. Here, we’re building an open-source repository of moral teachings, insights, and guidance inspired by the historical figure of Jesus, refocused through a rational, modern lens. We invite you to join us in shaping this evolving movement and the principles behind it.
 
 <details>
-<summary>If one of these sentence describes you **'_I agree with leading an ethical, moral existance with empathy for life. However, I don’t practice a religion because…_'**, then, you will enjoy **The Path**. </summary>
+<summary>
+  If one of these sentence describes you **I agree with leading an ethical, moral existance with empathy for life. However, I don’t practice a religion because…**, then, you will enjoy **The Path**. 
+</summary>
   
 ### I believe morality can exist independently of religion 
   I think one can lead a moral and empathetic life without adhering to any religious doctrine.
