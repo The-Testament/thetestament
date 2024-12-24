@@ -64,7 +64,7 @@ Welcome to the collaborative home of The Testament, a foundational text for a ne
 
 While we may have some basic innate tendencies toward empathy and fairness, the broader framework of ethics and morality is shaped by our culture, experiences, and social learning. We do not simply learn these concepts once; they require continual reflection, reinforcement, and sometimes revision throughout our lives. Adhering to **The Path** is a way to live a life aligned with your community’s values—without the dogma of religion.
 
-Please don’t conflate The Path’s reference to Jesus’s teachings with a religious doctrine. **The Path** is not a religion. We view Jesus as an extraordinary teacher whose original message has been distorted over centuries, turning into rituals, fear, guilt, and beliefs that often repel people. In contrast, we honor his core legacy—love and empathy for oneself and others—which is the essence **The Path** seeks to uphold.
+Please don’t conflate **The Path**’s reference to Jesus’s teachings with a religious doctrine. **The Path** is not a religion. We view Jesus as an extraordinary teacher whose original message has been distorted over centuries, turning into rituals, fear, guilt, and beliefs that often repel people. In contrast, we honor his core legacy—love and empathy for oneself and others—which is the essence **The Path** seeks to uphold.
 
 ## What Are We Doing?
 For over ten thousand years, human societies have developed religions—systems of belief, moral frameworks, and communal practices—to address fundamental questions about right and wrong, social order, and meaning in life. Historically, religion played a vital role in teaching morality and building strong communities. It provided answers where formal education left gaps and offered a sense of belonging where isolation threatened social cohesion.
@@ -76,12 +76,12 @@ The reality is that humans still need frameworks for teaching moral values and n
 ## Why "The Path" and "The Testament"?
 We acknowledge that rational people see through supernatural claims. We recognize that modern understanding and science leave no room for myths of miracles and divine interventions. That’s why we’re creating a new moral tradition, one we call **The Path**, anchored by **The Testament**—the text you find here.
 
-The Path is inspired by the moral teachings of Jesus, an undeniably profound teacher who promoted compassion, forgiveness, humility, generosity, and justice. We believe that the historical Jesus, stripped of miraculous embellishments and fear-based doctrines, still has much to teach us. Unfortunately, the centuries of accumulated mythology obscures his real message. The [Jefferson Bible](https://en.wikipedia.org/wiki/Jefferson_Bible)—Thomas Jefferson’s attempt to remove miracles and superstitions from the Gospels—hints that we can find a pure moral core by carefully extracting the ethical lessons from the supernatural trappings.
+**The Path** is inspired by the moral teachings of Jesus, an undeniably profound teacher who promoted compassion, forgiveness, humility, generosity, and justice. We believe that the historical Jesus, stripped of miraculous embellishments and fear-based doctrines, still has much to teach us. Unfortunately, the centuries of accumulated mythology obscures his real message. The [Jefferson Bible](https://en.wikipedia.org/wiki/Jefferson_Bible)—Thomas Jefferson’s attempt to remove miracles and superstitions from the Gospels—hints that we can find a pure moral core by carefully extracting the ethical lessons from the supernatural trappings.
 
 This approach aligns with [Deism](https://en.wikipedia.org/wiki/Deism), a worldview that recognizes a Creator or first cause without claiming ongoing supernatural interventions. Deism trusts that reason, observation, and moral reflection are sufficient to guide our ethics and purpose. By blending the practical morality of Jesus’ teachings with the rational, open-minded stance of Deism, we hope to forge a path that speaks to modern hearts and minds.
 
 ## The Assembly: Community Without Ceremony
-Unlike traditional churches, gatherings on The Path—which we call The Assembly—are not about worship, ritual, or supernatural devotion. There are no ceremonies or hymns, no forced reverence for miracles that never happened. Instead, The Assembly is where we come together to learn, discuss, debate, and support one another. It’s a safe place to build community rooted in understanding, empathy, and shared moral growth.
+Unlike traditional churches, gatherings on **The Path**—which we call The Assembly—are not about worship, ritual, or supernatural devotion. There are no ceremonies or hymns, no forced reverence for miracles that never happened. Instead, The Assembly is where we come together to learn, discuss, debate, and support one another. It’s a safe place to build community rooted in understanding, empathy, and shared moral growth.
 
 ## Why This Matters
 - Moral Teaching Is Essential: Without guidance, individuals may struggle to determine right from wrong or develop empathy and compassion. A consistent set of moral teachings helps societies function and thrive.
@@ -93,13 +93,13 @@ Community Is Vital: Humans are social creatures. We need each other—not only f
 - Offer Commentary: Provide insights, ask critical questions, or propose alternative viewpoints in issues and pull requests.
 - Translate and Adapt: Help make The Testament accessible to different cultures and languages, maintaining the core principles while respecting local contexts.
 - Spread the Word: Share this repository, start your own Assembly, and discuss these principles in your community, online forums, or with friends and family.
-We believe that by working together in an open-source manner—transparently, thoughtfully, and inclusively—we can establish a new kind of community that values reason, empathy, and collective well-being. Join us on The Path as we shape The Testament into a living, evolving guide for better, more compassionate human societies.
+We believe that by working together in an open-source manner—transparently, thoughtfully, and inclusively—we can establish a new kind of community that values reason, empathy, and collective well-being. Join us on **The Path** as we shape The Testament into a living, evolving guide for better, more compassionate human societies.
 
 <details>
 <summary>FAQ</summary>
 
 ## Is The Path a Religion
-- No, The Path is a movement. While religion has inspired great acts of kindness, art, and justice, its dangers lie in its misuse or when it becomes inflexible, exclusionary, or overly tied to power structures and The Path's mission is to separate from the Dogmatism, Absolutism, Exploitation of Fear and Guilt and Resistance to Change that religions breed and offer an ethical and moral path forward for society.
+- No, **The Path** is a movement. While religion has inspired great acts of kindness, art, and justice, its dangers lie in its misuse or when it becomes inflexible, exclusionary, or overly tied to power structures and **The Path**'s mission is to separate from the Dogmatism, Absolutism, Exploitation of Fear and Guilt and Resistance to Change that religions breed and offer an ethical and moral path forward for society.
 
 ## Does The Path Believe In God
 - The word "God" carries significant cultural and religious weight, often evoking anthropomorphic imagery or specific religious narratives that may not align with a scientific or philosophical understanding of ultimate reality. Terms like "The Source" or "Infinity" might better capture the abstract, unifying principle that underpins existence without the constraints of human-like attributes or religious dogma. These alternatives emphasize the origin, interconnectedness, and boundlessness of the cosmos while avoiding polarization or misunderstanding. However, if "God" is how you are comfortable referencing the ultimate force of our nature then that is fine.
