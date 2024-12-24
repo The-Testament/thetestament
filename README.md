@@ -7,7 +7,7 @@ Welcome to the collaborative home of The Testament, a foundational text for a ne
 </summary>
   
 ### I believe morality can exist independently of religion 
-  _I think one can lead a moral and empathetic life without adhering to any religious doctrine._
+    _I think one can lead a moral and empathetic life without adhering to any religious doctrine._
   
 ### I do not believe in any deity or higher power 
   I identify as an atheist or do not find evidence for the existence of gods.
