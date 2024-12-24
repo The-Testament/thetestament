@@ -155,7 +155,7 @@ Addressing pain and loss with honesty and compassion
 Transforming religious leadership into educational guidance
 [Read Chapter →](Chapter%209)
 
-### Chapter 10: Truth-Seeking
+### Chapter 10: Truth-Seeking: Aligning Ethics with Knowledge
 Aligning ethics with knowledge and understanding
 [Read Chapter →](Chapter%2010)
 
