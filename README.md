@@ -1,6 +1,28 @@
 # The Testament: A New Foundation for Community and Moral Teaching
 Welcome to the collaborative home of The Testament, a foundational text for a new movement we call **The Path**. Here, we’re building an open-source repository of moral teachings, insights, and guidance inspired by the historical figure of Jesus, refocused through a rational, modern lens. We invite you to join us in shaping this evolving movement and the principles behind it.
 
+<details>
+<summary>If one of these sentence describes you 'I agree with leading a moral existance with empathy for all life. However, I don’t practice a religion because…”, then, you will enjoy **The Path**. </summary>
+- I believe morality can exist independently of religion (I think one can lead a moral and empathetic life without adhering to any religious doctrine.)
+- I do not believe in any deity or higher power (I identify as an atheist or do not find evidence for the existence of gods.)
+- I am uncertain about the existence of higher powers (I identify as agnostic and prefer to keep an open mind about what we cannot know.)
+- I prefer a secular or scientific worldview (I find that reason, evidence, and critical thinking guide my life decisions without needing religion.)
+- I am ‘spiritual but not religious’ (I believe in some form of spirituality or interconnectedness but do not follow organized religious practices.)
+- I disagree with specific religious teachings or doctrines (Certain theological views or rules in organized religions conflict with my personal values or logic.)
+- I have had negative experiences with organized religion (Traumatic or disappointing experiences in religious institutions have led me to distance myself.)
+- I feel religion can be divisive or dogmatic (Organized religion sometimes fosters exclusion or dogmatism that I find problematic.)
+- I’ve grown up without religious influence (I was never raised with religion or never found a reason to adopt one later in life.)
+- I find meaning and purpose through other philosophies (I adhere to philosophical or ethical frameworks (e.g., humanism, stoicism, existentialism) instead of religious ones.)
+- I prefer personal introspection over structured worship (Meditation, personal reflection, or other practices fulfill my spiritual or moral needs without religious guidelines.)
+- I find religious institutions incompatible with my views on social justice (Certain religious traditions seem at odds with my stance on equality, rights, or cultural and gender issues.)
+- I rely on community and shared human values instead (I get a sense of belonging and moral grounding from secular communities rather than religious congregations.)
+- I haven’t felt the need for religion in my life (I simply haven’t encountered a need—intellectual, emotional, or social—for religious faith or practice.)
+- I’m still exploring my beliefs and not ready to commit to a religion (I’m open-minded and curious but haven’t settled on a structured religion.)
+- I believe religions were created by humans for historical/cultural reasons (I see religion as a product of human culture rather than a universal or divine truth.)
+- I value ethical principles more than specific religious tenets (I see no reason to align with a religion’s rules when broader ethical principles suffice.)
+- I prefer universal compassion without religious labels (I strive for empathy and altruism that transcend religious boundaries.)
+</details>
+
 ## What Are We Doing?
 For over ten thousand years, human societies have developed religions—systems of belief, moral frameworks, and communal practices—to address fundamental questions about right and wrong, social order, and meaning in life. Historically, religion played a vital role in teaching morality and building strong communities. It provided answers where formal education left gaps and offered a sense of belonging where isolation threatened social cohesion.
 
