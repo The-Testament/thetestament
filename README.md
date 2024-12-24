@@ -3,10 +3,10 @@ Welcome to the collaborative home of The Testament, a foundational text for a ne
 
 <details>
 <summary>If one of these sentence describes you 'I agree with leading a moral existance with empathy for all life. However, I don’t practice a religion because…”, then, you will enjoy **The Path**. </summary>
-- I believe morality can exist independently of religion (I think one can lead a moral and empathetic life without adhering to any religious doctrine.)
-- I do not believe in any deity or higher power (I identify as an atheist or do not find evidence for the existence of gods.)
-- I am uncertain about the existence of higher powers (I identify as agnostic and prefer to keep an open mind about what we cannot know.)
-- I prefer a secular or scientific worldview (I find that reason, evidence, and critical thinking guide my life decisions without needing religion.)
+### I believe morality can exist independently of religion (I think one can lead a moral and empathetic life without adhering to any religious doctrine.)
+### I do not believe in any deity or higher power (I identify as an atheist or do not find evidence for the existence of gods.)
+### I am uncertain about the existence of higher powers (I identify as agnostic and prefer to keep an open mind about what we cannot know.)
+### I prefer a secular or scientific worldview (I find that reason, evidence, and critical thinking guide my life decisions without needing religion.)
 - I am ‘spiritual but not religious’ (I believe in some form of spirituality or interconnectedness but do not follow organized religious practices.)
 - I disagree with specific religious teachings or doctrines (Certain theological views or rules in organized religions conflict with my personal values or logic.)
 - I have had negative experiences with organized religion (Traumatic or disappointing experiences in religious institutions have led me to distance myself.)
