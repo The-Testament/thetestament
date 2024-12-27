@@ -2,8 +2,6 @@
 
 * Readme
   * [Readme](README.md)
-* Front Matter
-  * [Preface](Preface.md)
 * Chapters
   * [Chapter 1](Chapter_1.md)
   * [Chapter 2](Chapter_2.md)
@@ -17,4 +15,7 @@
   * [Chapter 10](Chapter_10.md)
   * [Chapter 11](Chapter_11.md)
   * [Chapter 12](Chapter_12.md)
+* Appendix
+  * [Jefferson Bible](Jefferson_Bible.md)
+  * [Deism](Deism)
   
