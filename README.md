@@ -95,7 +95,6 @@
 <details>
 <summary>The Testament Chapters</summary>
 
-### &nbsp;&nbsp;&nbsp;&nbsp;Preface [Read Preface →]( Preface.md)
 ### &nbsp;&nbsp;&nbsp;&nbsp;Chapter 1: The Path [Read Chapter →](Chapter_1.md)
 ### &nbsp;&nbsp;&nbsp;&nbsp;Chapter 2: The Original Teacher [Read Chapter →](Chapter_2.md)
 ### &nbsp;&nbsp;&nbsp;&nbsp;Chapter 3: Beyond the Supernatural [Read Chapter →](Chapter_3.md)
