@@ -77,7 +77,7 @@
 
 - **The Path** is inspired by the moral teachings of Jesus, an undeniably profound teacher who promoted compassion, forgiveness, humility, generosity, and justice. We believe that the historical Jesus, stripped of miraculous embellishments and fear-based doctrines, still has much to teach us. Unfortunately, the centuries of accumulated mythology obscures his real message. The [Jefferson Bible](https://en.wikipedia.org/wiki/Jefferson_Bible)—Thomas Jefferson’s attempt to remove miracles and superstitions from the Gospels—hints that we can find a pure moral core by carefully extracting the ethical lessons from the supernatural trappings. ([Link to download the Jefferson Bible](https://www.globalgreyebooks.com/life-and-morals-of-jesus-of-nazareth-ebook.html))
 
-- This approach aligns with [Deism](https://en.wikipedia.org/wiki/Deism), a worldview that recognizes a Creator or first cause without claiming ongoing supernatural interventions. Deism trusts that reason, observation, and moral reflection are sufficient to guide our ethics and purpose. By blending the practical morality of Jesus’ teachings with the rational, open-minded stance of Deism, we hope to forge a path that speaks to modern hearts and minds.
+- This approach aligns with [Deism](https://en.wikipedia.org/wiki/Deism) ([See Appendix](appendix//Deism.md)), a worldview that recognizes a Creator or first cause without claiming ongoing supernatural interventions. Deism trusts that reason, observation, and moral reflection are sufficient to guide our ethics and purpose. By blending the practical morality of Jesus’ teachings with the rational, open-minded stance of Deism, we hope to forge a path that speaks to modern hearts and minds.
 
 ## The Assembly: Community Without Ceremony
 - Unlike traditional churches, gatherings on **The Path**—which we call **The Assembly**—are not about worship, ritual, or supernatural devotion. There are no ceremonies or hymns, no forced reverence for miracles that never happened. Instead, **The Assembly** is where we come together to learn, discuss, debate, and support one another. It’s a safe place to build community rooted in understanding, empathy, and shared moral growth.
@@ -240,6 +240,99 @@
 ### Doesn't The Path need resources (money) to grow?
 
 - People naturally wonder about buildings, organizations, and financial support - the structures they associate with spiritual journeys. But here's something remarkable about The Path: it requires no tithes, no collection plates, no membership fees. The Path isn't an institution to be maintained; it's a way of living to be shared. I've watched Assemblies gather in living rooms over cups of coffee, in public parks on sunny afternoons, in community centers already built for common use. They don't need special buildings or paid leaders because The Path isn't something you join - it's something you live. Understanding doesn't demand money; compassion doesn't require dues. The only investment The Path asks of you is your sincere desire to understand more deeply and to act more ethically. People find their way to The Path not through marketing campaigns or recruitment drives, but through the natural human desire to understand and connect. They stay not because they've paid for membership, but because they've found something authentic - a community of people working together to build a better world through understanding and action. The Path spreads like knowledge itself - from person to person, through genuine conversation and demonstrated wisdom, requiring nothing more than open minds and willing hearts.
+
+
+### Starting and Growing Assemblies
+
+<details>
+
+### What is the simplest way to start an Assembly?
+- Begin with regular conversations about life's deeper questions with friends or family. This could be weekly coffee meetings, shared meals, or evening walks. As others express interest, the group naturally evolves. Remember Marina and James's "Walking Assembly" that started with just two people taking regular walks to discuss life's challenges and grew into a vibrant community of fifteen.
+
+### Do Assemblies need formal structure?
+- While Assemblies don't require rigid structures, some basic agreements help them thrive:
+    - Regular meeting times that work for core members
+    - Clear agreements about confidentiality
+    - Shared understanding of how discussions are facilitated
+    - Methods for making group decisions
+    - Ways to welcome newcomers while maintaining group cohesion
+
+### What makes an Assembly different from just a social group?
+- Assemblies have intentional focus on:
+	- Exploring ethical questions and personal growth
+	- Supporting members through life challenges
+	- Contributing to the broader community
+	- Balancing discussion with practical action
+	- Creating meaningful celebrations and reflections
+	- Maintaining commitment to evidence-based thinking
+
+### How do we handle different experience levels?
+- Some members may be well-versed in philosophy or science, while others bring practical wisdom from life experience. Effective Assemblies:
+	- Value diverse forms of knowledge
+	- Encourage questions at all levels
+	- Share facilitation responsibilities
+	- Connect members with complementary knowledge
+	- Focus on practical application rather than abstract theory
+
+### What about physical space?
+- Assemblies can meet anywhere that allows for authentic conversation:
+	- Private homes
+	- Public parks
+	- Community centers
+	- Coffee shops
+	- Online for remote members
+	- Rented spaces as groups grow
+- The key is choosing spaces that foster open dialogue and meaningful connection.
+
+### How do we grow thoughtfully?
+- Growth should develop organically through:
+	- Personal invitations from existing members
+	- Natural splitting of larger groups into smaller ones
+	- Creation of special interest groups within the Assembly
+	- Collaboration with other local Assemblies
+	- Focus on depth of connection over numerical growth
+
+### What activities work well for Assemblies?
+- Successful Assemblies often combine:
+	- Structured discussions on ethical topics
+	- Practical support for members facing challenges
+	- Community service projects
+	- Celebration of life events
+	- Study of scientific and philosophical ideas
+	- Shared meals and informal socializing
+	- Group reflection on recent experiences
+
+### How do we ensure sustainability?
+- Long-lasting Assemblies typically:
+	- Rotate leadership responsibilities
+	- Maintain transparent decision-making
+	- Address conflicts early and directly
+	- Adapt to changing member needs
+	- Keep focus on practical impact
+	- Document and share successful practices
+	- Build networks with other Assemblies
+
+### What common challenges should we prepare for?
+- Be ready to address:
+	- Balance between structure and flexibility
+	- Integration of new members
+	- Handling disagreements constructively
+	- Maintaining momentum during busy times
+	- Supporting members through difficult periods
+	- Avoiding personality-based leadership
+	- Keeping focus on practical wisdom over abstract theory
+
+### How do we measure success?
+- Look for indicators like:
+	- Members supporting each other through challenges
+	- Practical positive impact in the broader community
+	- Growing depth of ethical understanding
+	- Strengthening of relationships
+	- Development of new leaders
+	- Successful handling of conflicts
+	- Regular participation and engagement
+
+</details>
 
 </details>
 

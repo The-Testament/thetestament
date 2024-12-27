@@ -18,4 +18,6 @@
 * Appendix
   * [Jefferson Bible](appendix/Jefferson_Bible.md)
   * [Deism](appendix/Deism)
-  
+* Assembly Guides
+  * [Guide for leading adult groups](assembly%20guides/adults.md)  
+  * [Guide for leading children groups](assembly%20guides/children.md)  
