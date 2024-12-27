@@ -95,43 +95,19 @@
 <details>
 <summary>The Testament Chapters</summary>
 
-### Preface
-[Read Chapter →]( Preface.md)
-
-### Chapter 1: The Path
-[Read Chapter →](Chapter_1.md)
-
-### Chapter 2: The Original Teacher
-[Read Chapter →](Chapter_2.md)
-
-### Chapter 3: Beyond the Supernatural
-[Read Chapter →](Chapter_3.md)
-
-### Chapter 4: Community
-[Read Chapter →](Chapter_4.md)
-
-### Chapter 5: Teaching and Learning
-[Read Chapter →](Chapter_5.md)	
-
-### Chapter 6: Personal Responsibility
-[Read Chapter →](Chapter_6.md)		
-
-### Chapter 7: Suffering and Resilience
-[Read Chapter →](Chapter_7.md)		
-
-### Chapter 8: Love and Connection
-[Read Chapter →](Chapter_8.md)	
-
-### Chapter 9: Empathy in Action
-[Read Chapter →](Chapter_9.md)	
-
-### Chapter 10: Celebration and Reflection
-[Read Chapter →](Chapter_10.md)	
-
+### Preface [Read Preface →]( Preface.md)
+### Chapter 1: The Path [Read Chapter →](Chapter_1.md)
+### Chapter 2: The Original Teacher [Read Chapter →](Chapter_2.md)
+### Chapter 3: Beyond the Supernatural [Read Chapter →](Chapter_3.md)
+### Chapter 4: Community [Read Chapter →](Chapter_4.md)
+### Chapter 5: Teaching and Learning [Read Chapter →](Chapter_5.md)	
+### Chapter 6: Personal Responsibility [Read Chapter →](Chapter_6.md)		
+### Chapter 7: Suffering and Resilience [Read Chapter →](Chapter_7.md)		
+### Chapter 8: Love and Connection [Read Chapter →](Chapter_8.md)	
+### Chapter 9: Empathy in Action [Read Chapter →](Chapter_9.md)	
+### Chapter 10: Celebration and Reflection [Read Chapter →](Chapter_10.md)	
 ### Chapter 11: Aligning Ethics with Knowledge [Read Chapter →](Chapter_11.md)	
-
 ### Chapter 12: The Way Forward [Read Chapter →](Chapter_12.md)	
-
 </details>
 
 
