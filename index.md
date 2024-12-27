@@ -21,3 +21,4 @@
 * Assembly Guides
   * [Guide for leading adult groups](assembly%20guides/adults.md)  
   * [Guide for leading children groups](assembly%20guides/children.md)  
+  * [Assembly Discussion Topics](assembly%20guides/assembly_discussion_topics.md)  
