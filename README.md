@@ -107,8 +107,8 @@
 ### &nbsp;&nbsp;&nbsp;&nbsp;Chapter 10: Celebration and Reflection [Read Chapter →](Chapter_10.md)	
 ### &nbsp;&nbsp;&nbsp;&nbsp;Chapter 11: Seeking Truth [Read Chapter →](Chapter_11.md)	
 ### &nbsp;&nbsp;&nbsp;&nbsp;Chapter 12: The Way Forward [Read Chapter →](Chapter_12.md)	
-### &nbsp;&nbsp;&nbsp;&nbsp;Appendix: The Jefferson Bible [Read Chapter →](Jefferson_Bible.md)	
-### &nbsp;&nbsp;&nbsp;&nbsp;Appendix: Deism [Read Chapter →](Deism.md)	
+### &nbsp;&nbsp;&nbsp;&nbsp;Appendix: The Jefferson Bible [Read Chapter →](appendix\Jefferson_Bible.md)	
+### &nbsp;&nbsp;&nbsp;&nbsp;Appendix: Deism [Read Chapter →](appendix\Deism.md)	
 </details>
 
 
