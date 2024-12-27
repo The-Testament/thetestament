@@ -220,12 +220,12 @@
 
 - Consider how Buddhism has influenced millions without emphasizing heaven or hell. Its insights into human suffering and the path to contentment resonate across cultures and centuries. Similarly, The Path offers practical wisdom for navigating our modern world, supported by our growing scientific understanding of human wellbeing, psychology, and social dynamics.
 
-- For The Path to achieve Christianity-level influence, it would likely need to:
+- For The Path to achieve Christianity-level influence, it will need to:
     - Provide clear practical benefits that people can experience in their daily lives
-    - Build strong community structures that support members
+    - Build strong community structures
     - Offer compelling answers to existential questions without requiring supernatural beliefs
     - Develop meaningful shared experiences that create belonging
-    - Address modern challenges in ways traditional religions sometimes struggle to
+    - Address modern challenges in ways religions struggle to
 
 - When we speak of shared experiences, we're not talking about empty ceremonies or arbitrary rules. Instead, imagine regular gatherings where people share their struggles and insights, where they work together on community projects, where they celebrate life's transitions and support each other through difficulties. These experiences build genuine connections and create lasting positive change in people's lives.
 
@@ -235,8 +235,12 @@
 
 - The Path's potential lies in its ability to meet people where they are, to offer practical wisdom for daily life while addressing our deepest questions about meaning and purpose. Its strength comes not from promises of future rewards but from the immediate experience of living with greater awareness, connection, and purpose. In a world hungry for authentic meaning and genuine community, this may be exactly what we need.
 
+### Doesn't The Path need resources (money) to grow?
+
+- People naturally wonder about buildings, organizations, and financial support - the structures they associate with spiritual journeys. But here's something remarkable about The Path: it requires no tithes, no collection plates, no membership fees. The Path isn't an institution to be maintained; it's a way of living to be shared. I've watched Assemblies gather in living rooms over cups of coffee, in public parks on sunny afternoons, in community centers already built for common use. They don't need special buildings or paid leaders because The Path isn't something you join - it's something you live. Understanding doesn't demand money; compassion doesn't require dues. The only investment The Path asks of you is your sincere desire to understand more deeply and to act more ethically. People find their way to The Path not through marketing campaigns or recruitment drives, but through the natural human desire to understand and connect. They stay not because they've paid for membership, but because they've found something authentic - a community of people working together to build a better world through understanding and action. The Path spreads like knowledge itself - from person to person, through genuine conversation and demonstrated wisdom, requiring nothing more than open minds and willing hearts.
+
 </details>
 
-## Thank you
+## Join Us
 
 - **The Path** offers a way forward for those seeking meaning, community, and ethical guidance in a rational world. By working together in an open-source manner—transparently, thoughtfully, and inclusively—we can establish a new kind of community that values reason, empathy, and collective well-being. Whether you contribute to **The Testament**, participate in an **Assembly**, or simply explore these principles in your daily life, you're helping to shape a future where moral wisdom and human connection thrive without supernatural beliefs. Join us on **The Path** as we build communities of purpose and create a world where rational thinking and compassionate action walk hand in hand.
