@@ -99,40 +99,40 @@
 [Read Chapter →]( Preface.md)
 
 ### Chapter 1: The Path
-[Read Chapter →](Chapter%201.md)
+[Read Chapter →](Chapter_1.md)
 
 ### Chapter 2: The Original Teacher
-[Read Chapter →](Chapter%202.md)
+[Read Chapter →](Chapter_2.md)
 
 ### Chapter 3: Beyond the Supernatural
-[Read Chapter →](Chapter%203.md)
+[Read Chapter →](Chapter_3.md)
 
 ### Chapter 4: Community
-[Read Chapter →](Chapter%204.md)
+[Read Chapter →](Chapter_4.md)
 
 ### Chapter 5: Teaching and Learning
-[Read Chapter →](Chapter%205.md)	
+[Read Chapter →](Chapter_5.md)	
 
 ### Chapter 6: Personal Responsibility
-[Read Chapter →](Chapter%206.md)		
+[Read Chapter →](Chapter_6.md)		
 
 ### Chapter 7: Suffering and Resilience
-[Read Chapter →](Chapter%207.md)		
+[Read Chapter →](Chapter_7.md)		
 
 ### Chapter 8: Love and Connection
-[Read Chapter →](Chapter%208.md)	
+[Read Chapter →](Chapter_8.md)	
 
 ### Chapter 9: Empathy in Action
-[Read Chapter →](Chapter%209.md)	
+[Read Chapter →](Chapter_9.md)	
 
 ### Chapter 10: Celebration and Reflection
-[Read Chapter →](Chapter%2010.md)	
+[Read Chapter →](Chapter_10.md)	
 
 ### Chapter 11: Aligning Ethics with Knowledge
-[Read Chapter →](Chapter%2011.md)	
+[Read Chapter →](Chapter_11.md)	
 
 ### Chapter 12: The Way Forward
-[Read Chapter →](Chapter%2012.md)	
+[Read Chapter →](Chapter_12.md)	
 
 </details>
 
