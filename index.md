@@ -16,6 +16,6 @@
   * [Chapter 11](Chapter_11.md)
   * [Chapter 12](Chapter_12.md)
 * Appendix
-  * [Jefferson Bible](Jefferson_Bible.md)
-  * [Deism](Deism)
+  * [Jefferson Bible](appendix/Jefferson_Bible.md)
+  * [Deism](appendix/Deism)
   
