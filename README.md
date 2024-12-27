@@ -103,9 +103,9 @@
 ### &nbsp;&nbsp;&nbsp;&nbsp;Chapter 6: Personal Responsibility [Read Chapter →](Chapter_6.md)		
 ### &nbsp;&nbsp;&nbsp;&nbsp;Chapter 7: Suffering and Resilience [Read Chapter →](Chapter_7.md)		
 ### &nbsp;&nbsp;&nbsp;&nbsp;Chapter 8: Love and Connection [Read Chapter →](Chapter_8.md)	
-### &nbsp;&nbsp;&nbsp;&nbsp;Chapter 9: Empathy in Action [Read Chapter →](Chapter_9.md)	
+### &nbsp;&nbsp;&nbsp;&nbsp;Chapter 9: Empathy [Read Chapter →](Chapter_9.md)	
 ### &nbsp;&nbsp;&nbsp;&nbsp;Chapter 10: Celebration and Reflection [Read Chapter →](Chapter_10.md)	
-### &nbsp;&nbsp;&nbsp;&nbsp;Chapter 11: Aligning Ethics with Knowledge [Read Chapter →](Chapter_11.md)	
+### &nbsp;&nbsp;&nbsp;&nbsp;Chapter 11: Seeking Truth [Read Chapter →](Chapter_11.md)	
 ### &nbsp;&nbsp;&nbsp;&nbsp;Chapter 12: The Way Forward [Read Chapter →](Chapter_12.md)	
 </details>
 
