@@ -65,7 +65,7 @@
   
 </details>
 
-## What Are We Doing?
+## Why?
 - For over ten thousand years, human societies have developed religions—systems of belief, moral frameworks, and communal practices—to address fundamental questions about right and wrong, social order, and meaning in life. Historically, religion played a vital role in teaching morality and building strong communities. It provided answers where formal education left gaps and offered a sense of belonging where isolation threatened social cohesion.
 
 - Yet, traditional religions often come with baggage. Many are riddled with supernatural claims and threatened punishments that do not hold up to scientific scrutiny or rational inquiry. These stories—meant to captivate and guide—can devolve into tools of exploitation, false promises, and unfounded fears. This has led many people today to dismiss religion entirely, viewing it as an outdated, manipulative force in society.
