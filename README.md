@@ -128,11 +128,9 @@
 ### Chapter 10: Celebration and Reflection
 [Read Chapter →](Chapter_10.md)	
 
-### Chapter 11: Aligning Ethics with Knowledge
-[Read Chapter →](Chapter_11.md)	
+### Chapter 11: Aligning Ethics with Knowledge [Read Chapter →](Chapter_11.md)	
 
-### Chapter 12: The Way Forward
-[Read Chapter →](Chapter_12.md)	
+### Chapter 12: The Way Forward [Read Chapter →](Chapter_12.md)	
 
 </details>
 
