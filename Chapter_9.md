@@ -1,7 +1,5 @@
 # Chapter 9: Empathy
 
-*[In Morgan Freeman's voice]*
-
 Let me tell you about two men I once observed in a coffee shop. The first man, rushing to his meeting, bumped into the second, spilling coffee all over both their suits. The first man saw an obstacle that made him late. The second man saw a fellow human having a difficult day. Same moment, entirely different worlds.
 
 You see, empathy isn't just about feeling what others feel. It's about something far more fundamental - it's about seeing others as people rather than objects in our way. And that, my friends, is where everything changes.
@@ -62,5 +60,3 @@ That's the power of empathy in action. It transforms obstacles into opportunitie
 Because in the end, my friends, we have a choice. We can live in our boxes, seeing others as objects in our way. Or we can step out, see the humanity in every face we meet, and create a world where everyone feels seen, heard, and valued.
 
 The choice is yours. But remember - every time you choose to see another person's humanity, you affirm your own.
-
-*[End Morgan Freeman voice]*
