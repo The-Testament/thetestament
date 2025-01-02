@@ -1,4 +1,4 @@
-- # The Testament: A New Foundation
+# The Testament: A New Foundation
 - For over ten thousand years, religion has been humanity's primary tool for building stable societies. It has taught children right from wrong, given comfort to the grieving, provided frameworks for life's major transitions, and bound communities together through shared purpose. When formal education was rare, religion taught moral lessons through stories. When communities were isolated, religious gatherings provided essential social connections. When people faced life's greatest challenges, religious communities offered support and guidance.
 - Yet today, millions are walking away from traditional religion. They can no longer accept claims about virgin births, worldwide floods, or people rising from the dead. They reject the idea of eternal punishment in hell for finite transgressions. They question why an all-powerful deity would demand constant worship or allow innocent suffering. They see religious institutions defending discrimination, denying scientific evidence, and accumulating wealth while preaching poverty.
 - But here's the challenge: when people leave religion, they often lose something vital. They lose the community that celebrates their marriages and supports them through loss. They lose the frameworks that helped them teach values to their children. They lose the regular gatherings that connected them with neighbors and reinforced moral principles. And society loses something too - the shared ethical understanding and social bonds that help maintain stability and cooperation.
@@ -105,7 +105,7 @@
 ### &nbsp;&nbsp;&nbsp;&nbsp;Chapter 4: Community [Read Chapter →](Chapter_4.md)
 ### &nbsp;&nbsp;&nbsp;&nbsp;Chapter 5: Teaching and Learning [Read Chapter →](Chapter_5.md)	
 ### &nbsp;&nbsp;&nbsp;&nbsp;Chapter 6: Personal Responsibility [Read Chapter →](Chapter_6.md)		
-### &nbsp;&nbsp;&nbsp;&nbsp;Chapter 7: Suffering and Resilience [Read Chapter →](Chapter_7.md)		
+### &nbsp;&nbsp;&nbsp;&nbsp;Chapter 7: Suffering, Resilience, and Life's Deepest Questions [Read Chapter →](Chapter_7.md)		
 ### &nbsp;&nbsp;&nbsp;&nbsp;Chapter 8: Love and Connection [Read Chapter →](Chapter_8.md)	
 ### &nbsp;&nbsp;&nbsp;&nbsp;Chapter 9: Empathy [Read Chapter →](Chapter_9.md)	
 ### &nbsp;&nbsp;&nbsp;&nbsp;Chapter 10: Celebration and Reflection [Read Chapter →](Chapter_10.md)	
